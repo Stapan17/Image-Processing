@@ -1,6 +1,7 @@
 import glob
 import cv2
 
+# printing the choices
 print("1:  jpg to png")
 print("2:  jpg to tif")
 print("3:  jpg to bmp")
